@@ -14,6 +14,9 @@ body {
 
 }
 
+
+
+
 .logo-sfondo img {
     height: 80px;
     margin-top: 100px;
@@ -53,12 +56,14 @@ main {
 
 .img-tim {
     width: 100%;
-
+    height: 600px;
 }
 
 .img-tim img {
-    width: 900px
+    width: 900px;
+    height: 100%;
 }
+
 
 .desczione-foto {
     margin: 5px;

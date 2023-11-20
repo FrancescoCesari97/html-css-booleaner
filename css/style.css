@@ -17,3 +17,29 @@ body {
     height: 80px;
     margin-top: 100px;
 }
+
+.titolo {
+    margin-left: 15px;
+}
+
+.titolo h1 {
+    font-size: 80px;
+    margin-bottom: 15px;
+}
+
+.titolo a {
+    text-decoration: none;
+    color: rgb(0, 153, 255)
+}
+
+.autore {
+    font-size: 38px;
+    margin: 5px 0 0 0;
+    color: rgba(0, 0, 0, 0.475);
+    font-weight: 600;
+}
+
+.data {
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.475);
+}

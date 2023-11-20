@@ -66,10 +66,32 @@ main {
 
 .testo {
     font-size: 20px;
+    margin: 60px 0;
 }
 
 .testo-evidenziato {
     background-color: rgb(246, 255, 0);
 }
 
-.lista {}
+.lista {
+    margin: 60px 0;
+}
+
+table {
+    width: 100%;
+    border-spacing: 0;
+    margin: 60px 0;
+}
+
+thead {
+    background-color: rgb(0, 174, 255);
+}
+
+.contenuto-testo {
+    width: 50%;
+
+}
+
+.riga-colorata {
+    background-color: rgb(127, 242, 255);
+}
